@@ -3,7 +3,7 @@
 Here is a list with all the code Snippetes in different languages that helps you to create an external task client for Camunda.
 
 ## Supported Code by Camunda
-- [Java Script](https://github.com/camunda/camunda-external-task-client-js.git)
+- [JavaScript](https://github.com/camunda/camunda-external-task-client-js.git)
 - [Java](https://github.com/camunda/camunda-external-task-client-java.git)
 
 ## Unsupported
