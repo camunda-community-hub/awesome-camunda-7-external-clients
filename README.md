@@ -10,8 +10,8 @@ Here is a list with all the code Snippetes in different languages that helps you
 - [JavaScript](https://github.com/nikku/camunda-worker-node)
 - [.Net](https://github.com/tasso94/camunda-external-task-client-dotnet.git)
 - [Spring Boot](https://github.com/camunda/camunda-external-task-client-spring-boot.git)
-- [Python](https://github.com/camundacon2019/External-Task-Client.git)
-- [Python](https://pypi.org/project/camunda-external-task-client-python3/)
+- [Python 1](https://github.com/camundacon2019/External-Task-Client.git)
+- [Python 2](https://pypi.org/project/camunda-external-task-client-python3/)
 - [Ruby](https://github.com/amalagaura/camunda-workflow) and a lot of more! amazing 
 
 It is just a beginning! 
