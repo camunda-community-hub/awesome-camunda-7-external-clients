@@ -4,7 +4,8 @@ Here is a list with all the code Snippetes in different languages that helps you
 
 ## Supported Code by Camunda
 - [JavaScript](https://github.com/camunda/camunda-external-task-client-js.git)
-- [Java](https://github.com/camunda/camunda-external-task-client-java.git)
+- [Java](https://github.com/camunda/camunda-bpm-platform/tree/master/clients/java)
+- [Spring Boot Starter](https://github.com/camunda/camunda-bpm-platform/tree/master/spring-boot-starter/starter-client)
 
 ## Unsupported
 - [JavaScript](https://github.com/nikku/camunda-worker-node)
