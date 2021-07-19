@@ -9,7 +9,7 @@ Here is a list with all the code Snippetes in different languages that helps you
 
 ## Unsupported
 - [JavaScript](https://github.com/nikku/camunda-worker-node)
-- [Micronaut](https://github.com/NovatecConsulting/micronaut-camunda-external-client)
+- [Micronaut](https://github.com/camunda-community-hub/micronaut-camunda-external-client)
 - [.Net](https://github.com/tasso94/camunda-external-task-client-dotnet.git)
 - [Spring Boot](https://github.com/camunda/camunda-external-task-client-spring-boot.git)
 - [Python 1](https://github.com/camundacon2019/External-Task-Client.git)
