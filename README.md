@@ -15,7 +15,8 @@ Here is a list with all the code Snippetes in different languages that helps you
 - [Spring Boot](https://github.com/camunda/camunda-external-task-client-spring-boot.git)
 - [Python 1](https://github.com/camundacon2019/External-Task-Client.git)
 - [Python 2](https://pypi.org/project/camunda-external-task-client-python3/)
-- [Python 3](https://pypi.org/project/generic-camunda-client/) generic client for complete Camunda API (and External Task API, of course) 
+- [Python 3](https://pypi.org/project/generic-camunda-client/) generic client for complete Camunda API (and External Task API, of course)
+- [Python 4](https://github.com/pklauke/pycamunda) Client for Camunda API
 - [Ruby](https://github.com/amalagaura/camunda-workflow) and a lot of more! amazing 
 
 It is just a beginning! 
