@@ -2,7 +2,7 @@
 
 # Awesome Camunda Platform 7 External Task Clients
 
-Here is a list with all the code snippets in different languages that helps you to create an external task client for Camunda.
+Here is a list with all the code snippets in different languages that helps you to create an external task client in Camunda Platform 7.
 
 ## Supported Code by Camunda
 - [JavaScript](https://github.com/camunda/camunda-external-task-client-js.git)
