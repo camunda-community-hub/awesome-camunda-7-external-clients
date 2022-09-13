@@ -1,8 +1,8 @@
-[![](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)](https://github.com/camunda-community-hub/community)
+[![](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)](https://github.com/camunda-community-hub/community) ![Compatible with: Camunda Platform 7](https://img.shields.io/badge/Compatible%20with-Camunda%20Platform%207-26d07c)
 
-# Awesome Camunda External Task Clients
+# Awesome Camunda Platform 7 External Task Clients
 
-Here is a list with all the code Snippetes in different languages that helps you to create an external task client for Camunda.
+Here is a list with all the code snippets in different languages that helps you to create an external task client for Camunda.
 
 ## Supported Code by Camunda
 - [JavaScript](https://github.com/camunda/camunda-external-task-client-js.git)
